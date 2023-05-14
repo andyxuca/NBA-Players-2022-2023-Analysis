@@ -1,7 +1,7 @@
 # NBA-Players-2022-2023-Analysis
 
 ## Data Scraping
-I scraped my data from https://www.basketball-reference.com/, a website dedicated to basketball statistics. I wrangled the data to remove filler rows that did not contain player data and rows that repeated players. The columns of the dataframe are defined on the basketball reference website, which can be accessed here: https://www.basketball-reference.com/leagues/NBA_2023_totals.html
+For this analysis, I used the individual player data for all players of the 2022-2023 NBA season. I scraped my data from https://www.basketball-reference.com/, a website dedicated to basketball statistics. I wrangled the data to remove filler rows that did not contain player data and rows that repeated players. The columns of the dataframe are defined on the basketball reference website, which can be accessed here: https://www.basketball-reference.com/leagues/NBA_2023_totals.html
 
 ## Data Processing
 I processed the data in different ways with the goal of identify patterns and outliers. Specifically, I implemented the following:
