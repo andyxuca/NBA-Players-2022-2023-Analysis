@@ -32,7 +32,7 @@ Group 1: Less rebounds and less fouls
 
 Group 2: More rebounds and less fouls
 * Notable Players
-  * Jason Tatum (BOS)
+  * Jayson Tatum (BOS)
   * Joel Embiid (PHI)
   * Luka Doncic (DAL)
 
